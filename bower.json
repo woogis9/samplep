@@ -1,0 +1,24 @@
+{
+  "name": "samplep",
+  "version": "0.0.1",
+  "authors": [
+    "woogis9 <woogis9@daum.net>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+    "install": {
+    "path": {
+      "css": "WEB-INF/view/css",
+      "js": "WEB-INF/view/js"
+    }
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
